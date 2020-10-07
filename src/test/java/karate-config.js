@@ -16,3 +16,4 @@ function fn() {
   }
   return config;
 }
+"somechange"
